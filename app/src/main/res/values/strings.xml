@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contact Details</string>
+    <string name="details">Details</string>
+    <string name="email">Email</string>
+    <string name="call">Call</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="favorite">Favorite</string>
+    <string name="official">Official</string>
+    <string name="personal">Personal</string>
+    <string name="phone_number">Phone number</string>
+    <string name="mobile">Mobile</string>
+    <string name="team">Team</string>
+    <string name="leads_by">Leads by</string>
+    <string name="add_to_contact">Add to contact</string>
+    <string name="project_operation_team">Project Operation Team</string>
+    <string name="darrell_steward">Darrell Steward</string>
+</resources>
